@@ -32,6 +32,8 @@ console.log("guess1: ", guess1);
 const guess2 = `Guess Who is ${firstName}`;
 console.log("guess2: ", guess2);
 
+//Prediction: guess1: Liz
+//            guess2: Guess Who is Liz
 // // GUESS 3 ///////////////////
 
 // const guess = {
